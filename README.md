@@ -1,2 +1,2 @@
-# QEpy-Tutorials
-Tutorials on QEpy for the Q-MS School
+# PAOFLOW-Tutorials
+Tutorials on PAOFLOW for the Q-MS School
