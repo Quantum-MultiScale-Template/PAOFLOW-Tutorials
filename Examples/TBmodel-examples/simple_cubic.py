@@ -27,7 +27,7 @@ import numpy as np
 
 def main():
 
-  model = {'label':'simple_cubic', 't':1.0}
+  model = {'label':'cubium', 't':1.0}
   paoflow = PAOFLOW.PAOFLOW(model=model, outputdir='./simple_cubic', verbose=True)
 
   path = 'G-X-M-G-R'
